@@ -1,0 +1,30 @@
+html, body {
+  
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:black ;
+  color: white;
+}
+.button{
+  height: 90px;
+  width: 90px;
+  font-size: 40px;
+/*   padding: 30px;
+  margin: 0 3px; */
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  margin: 0;
+  font-size: 30px;
+  padding: 20px 0px;
+  size: 40px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
